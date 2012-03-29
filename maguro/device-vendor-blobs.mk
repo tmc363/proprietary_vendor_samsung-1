@@ -5,6 +5,7 @@ PRODUCT_COPY_FILES := \
 # All the blobs necessary for maguro
 PRODUCT_COPY_FILES += \
     vendor/samsung/maguro/proprietary/fRom:system/bin/fRom \
+    vendor/samsung/maguro/proprietary/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/samsung/maguro/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/maguro/proprietary/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/samsung/maguro/proprietary/sirfgps.conf:system/vendor/etc/sirfgps.conf \
