@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/bintvoutservice:system/bin/bintvoutservice \
     $(LOCAL_PATH)/proprietary/system/bin/gps.cer:system/bin/gps.cer \
     $(LOCAL_PATH)/proprietary/system/bin/lpmkey:system/bin/lpmkey \
-    $(LOCAL_PATH)/proprietary/system/bin/playlpm:system/bin/playlpm
+    $(LOCAL_PATH)/proprietary/system/bin/playlpm:system/bin/playlpm \
     $(LOCAL_PATH)/proprietary/system/bin/hostapd:system/bin/hostapd
 
 PRODUCT_COPY_FILES += \
