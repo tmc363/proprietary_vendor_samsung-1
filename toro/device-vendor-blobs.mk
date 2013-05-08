@@ -16,7 +16,6 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_PACKAGES += \
-    bcm4330 \
     BIP \
     IMSFramework \
     RTN \
